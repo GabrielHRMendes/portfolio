@@ -180,7 +180,7 @@ const linkCards = [
   },
   {
     id: 'agentes-ia',
-    href: 'https://wa.me/553799866869?text=Quero%20saber%20mais%20sobre%20Agentes%20de%20IA',
+    href: 'https://wa.me/5537998668569?text=Quero%20saber%20mais%20sobre%20Agentes%20de%20IA',
     icon: <AgentsIcon />,
     title: 'Agentes de IA',
     description: 'atendimento · vendas · suporte',
@@ -189,7 +189,7 @@ const linkCards = [
   },
   {
     id: 'automacoes',
-    href: 'https://wa.me/553799866869?text=Quero%20saber%20mais%20sobre%20Automa%C3%A7%C3%B5es',
+    href: 'https://wa.me/5537998668569?text=Quero%20saber%20mais%20sobre%20Automa%C3%A7%C3%B5es',
     icon: <AutomationIcon />,
     title: 'Automações',
     description: 'n8n · integrações · fluxos',
@@ -198,7 +198,7 @@ const linkCards = [
   },
   {
     id: 'whatsapp-api',
-    href: 'https://wa.me/553799866869?text=Quero%20saber%20mais%20sobre%20WhatsApp%20Oficial',
+    href: 'https://wa.me/5537998668569?text=Quero%20saber%20mais%20sobre%20WhatsApp%20Oficial',
     icon: <WhatsAppCardIcon />,
     title: 'WhatsApp Oficial',
     description: 'api oficial · chatbots',
@@ -216,7 +216,7 @@ const linkCards = [
   },
   {
     id: 'sites',
-    href: 'https://wa.me/553799866869?text=Quero%20saber%20mais%20sobre%20Sites%20e%20Landing%20Pages',
+    href: 'https://wa.me/5537998668569?text=Quero%20saber%20mais%20sobre%20Sites%20e%20Landing%20Pages',
     icon: <SitesIcon />,
     title: 'Sites e Landing Pages',
     description: 'sites · lps · lançamentos',
@@ -225,7 +225,7 @@ const linkCards = [
   },
   {
     id: 'design',
-    href: 'https://wa.me/553799866869?text=Quero%20saber%20mais%20sobre%20Design%20e%20V%C3%ADdeo',
+    href: 'https://wa.me/5537998668569?text=Quero%20saber%20mais%20sobre%20Design%20e%20V%C3%ADdeo',
     icon: <DesignIcon />,
     title: 'Design e Vídeo',
     description: 'criativos · reels · edição',
